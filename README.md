@@ -127,6 +127,17 @@ Dataset includes:
 ![Model Comparison](project_assets/model_comparison.png)
 
 ---
+## Spatial Delivery Demand Zones
+
+![Spatial Zones](project_assets/spatial_demand_zones.png)
+
+---
+
+## Delivery Volume by Spatial Zone
+
+![Zone Volume](project_assets/zone_delivery_volume.png)
+
+---
 
 # Repository Structure
 
