@@ -123,7 +123,7 @@ Dataset includes:
 
 ## Actual vs Predicted Order Volume
 
-![Actual vs Predicted](project_assets/Actual vs Predicted Order Volume.png)
+![Actual vs Predicted](project_assets/actual_vs_predicted.png)
 
 ---
 
