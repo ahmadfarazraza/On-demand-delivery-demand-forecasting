@@ -161,3 +161,29 @@ on-demand-delivery-demand-forecasting/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
+---
+
+# Future Improvements
+
+Potential future enhancements include:
+- zone-level spatiotemporal forecasting,
+- weather-aware demand prediction,
+- real-time streaming analytics,
+- route optimization,
+- delivery SLA prediction,
+- and deep learning forecasting models such as LSTMs.
+
+Additional operational analysis could also include:
+- courier idle-time estimation,
+- dynamic staffing optimization,
+- and real-time dispatch intelligence dashboards.
+
+---
+
+# Author
+
+Ahmad Faraz Raza
+
+Master of Applied Computer Science  
+Concordia University
