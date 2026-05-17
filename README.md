@@ -17,6 +17,7 @@ The project combines:
 - exploratory data analysis,
 - geospatial analytics,
 - operational KPI engineering,
+- spatiotemporal demand analysis,
 - and machine learning forecasting models.
 
 ---
@@ -60,6 +61,9 @@ Dataset includes:
 ## Geospatial Analysis
 - Delivery distance calculation using Haversine formula
 - Distance vs delivery time analysis
+- Spatial delivery zone clustering using KMeans
+- Geographic demand hotspot analysis
+- Zone-level delivery density analysis
 
 ## Demand Forecasting
 - Hourly order demand aggregation
@@ -93,6 +97,7 @@ Dataset includes:
 - Previous-day same-hour demand (`lag_24_hour`) was the strongest predictor of future order volume.
 - Courier workload distribution showed operational imbalance across drivers.
 - Peak-hour operations demonstrated strong system efficiency despite higher demand volume.
+- Spatial clustering revealed geographically concentrated delivery hotspots and uneven delivery density across operational zones.
 
 ---
 
